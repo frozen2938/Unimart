@@ -38,3 +38,13 @@ img{
     font-size: 24px;
     font-weight: bolder;
 }
+#main{
+            display: flex;
+            margin-left: 180px;
+            margin-right: 180px;
+            margin-top: 60px;
+            border-radius: 10px;
+            width: 80%;
+            background-color: #32f12d;
+            padding-right: 10px;
+        }
